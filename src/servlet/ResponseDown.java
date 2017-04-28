@@ -1,6 +1,3 @@
-/**
- * 
- */
 package servlet;
 
 import java.io.File;
@@ -16,9 +13,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * TODO:下载文件
+ * TODO:脧脗脭脴脦脛录镁
  * 
- * @author zhenying.diao(diaozhenying@tcl.com) 2017年4月27日
+ * @author zhenying.diao(diaozhenying@tcl.com) 2017脛锚4脭脗27脠脮
  * 
  */
 public class ResponseDown extends HttpServlet {
